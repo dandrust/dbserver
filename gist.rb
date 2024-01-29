@@ -2,6 +2,9 @@ require 'socket'
 require 'singleton'
 require 'stringio'
 
+# Single-file version of the repository as of commit 74cc8d5a53925c0a6e08004bd36a692e66faf2d8
+# Also available at https://gist.github.com/dandrust/9e3a9e305a1f0570f4d49558191d1b54
+
 # A small persistence library that, at the moment, only
 # implements an in-memory persistence strategy for getting
 # and setting key-value pairs
